@@ -45,9 +45,7 @@ int main()
 {
     smallerBox box;
     box.setSmallWidth(5.90);
-    box.setSmallHeight(10.50);
-    
-    
+    box.setSmallHeight(10.50);   
     
     cout << " width: " << box.getSmallWidth() << endl;
     cout << " height " << box.getSmallHeight() << endl;
