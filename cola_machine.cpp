@@ -42,7 +42,7 @@ int main(){
 			cout << "Coke!" << endl;
 			break;
 		default: 
-			cout << "You did not pick anything!!" << endl;
+			cout << "Error. choice was not valid, here is your money back." << endl;
 			break;
 	}
 
